@@ -1,2 +1,2 @@
-# metanetwork.dev
-Metanetwork - Decentralized Blockchain Ai Technologies
+# Metanetwork - Decentralized Blockchain AI Technologies
+
